@@ -31,6 +31,18 @@ Installation
 
 Simply download the  <i>.jar</i> file and Add the library to your project.
 
+# Usage
+
+The usage is pretty self explanatory since it is easy with Netbeans IDE. (Explained usage instructions will be added sooner!)
+
+# DecoratedPanel
+# DecoratedImagePanel
+
+# 🛠️ Built With
+
+- Java Swing
+- JDK 8+
+
 # 🧑‍💻 Author
 
 - Wishva Rajaguru @ wishvarajaguru@gmail.com
