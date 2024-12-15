@@ -37,6 +37,10 @@ Simply download the  <i>.jar</i> file and Add the library to your project.
 <br/>
 Connect with me on <a href=""> GitHub </a>!
 
+# 📜 License
+
+This project is licensed under the MIT License. See the <a href='LICENSE'>LICENSE </a> file for details.
+
 # 🙌 Support
 
 If you find this project helpful, please ⭐ the repository and share it with others!
