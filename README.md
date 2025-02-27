@@ -134,6 +134,13 @@ The usage is pretty self explanatory since it is easy with Netbeans IDE. (Explai
             panel.setFitContent(true);
 ```
 
+- To Contain the Image withint the conrainer (New):
+- This feature can be used along-side <b>centerImage</b> function as well.
+
+```java
+            panel.setContainContent(true);
+```
+
 - To Enable Smooth Rendering of the image:
 This feature may slow down the loading process based on the performance of your workstation. How ever this will get rid of that laggy edges of the image if you need it.
 
